@@ -1,0 +1,17 @@
+.odd {
+    color: black;
+    background-color: lightcoral;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.cooler{
+    font-size: 24px;
+}
+#dos{
+    color: blue;
+    font-size: 36px;
+}
+#cuatro{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
